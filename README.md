@@ -1,12 +1,12 @@
-1.安裝
+1.安裝   
 npm install
 
-2.安裝playwright
+2.安裝playwright   
 npx playwright install
 
-3.執行測試檔
+3.執行測試檔   
 npx playwright test
 
-4.產生HTML報表
+4.產生HTML報表   
 npx playwright show-report
 
