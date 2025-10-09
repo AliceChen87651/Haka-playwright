@@ -1,0 +1,12 @@
+# Node / Playwright
+node_modules/
+test-results/
+playwright-report/
+
+# OS / tools noise
+.DS_Store
+Thumbs.db
+*.log
+
+# env / secrets
+.env
